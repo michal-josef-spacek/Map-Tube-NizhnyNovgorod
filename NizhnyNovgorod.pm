@@ -116,6 +116,8 @@ For more information about NizhnyNovgorod Map, click L<here|https://en.wikipedia
 
 =head1 EXAMPLE1
 
+=for comment filename=print_nizhny_novgorod_route.pl
+
  use strict;
  use warnings;
 
@@ -136,6 +138,8 @@ For more information about NizhnyNovgorod Map, click L<here|https://en.wikipedia
 
 =head1 EXAMPLE2
 
+=for comment filename=print_nizhny_novgorod_def_xml_file.pl
+
  use strict;
  use warnings;
 
@@ -154,6 +158,8 @@ For more information about NizhnyNovgorod Map, click L<here|https://en.wikipedia
  # XML file: .*/nizhny_novgorod-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_nizhny_novgorod_image.pl
 
  use strict;
  use warnings;
@@ -191,6 +197,8 @@ For more information about NizhnyNovgorod Map, click L<here|https://en.wikipedia
 
 =head1 EXAMPLE4
 
+=for comment filename=print_nizhny_novgorod_lines.pl
+
  use strict;
  use warnings;
 
@@ -211,6 +219,8 @@ For more information about NizhnyNovgorod Map, click L<here|https://en.wikipedia
  # Сормовская линия
 
 =head1 EXAMPLE5
+
+=for comment filename=print_nizhny_novgorod_line_stations.pl
 
  use strict;
  use warnings;

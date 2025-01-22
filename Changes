@@ -5,6 +5,7 @@
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section in doc.
  - Move bugtracker to github.
+ - Rename examples to better names.
  - Rewrite XML map to new version with line IDs.
  - Rewrite XML map to new version without junctions.
  - Update Module::Install to 1.21 version.
