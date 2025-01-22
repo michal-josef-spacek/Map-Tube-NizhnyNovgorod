@@ -24,4 +24,4 @@ $g->graph('NizhnyNovgorod.png');
 system "ls -l NizhnyNovgorod.png";
 
 # Output like:
-# -rw-r--r-- 1 skim skim 292500 Dec 21 17:25 NizhnyNovgorod.png
+# -rw-r--r-- 1 skim skim 38058 22. led 11.37 NizhnyNovgorod.png

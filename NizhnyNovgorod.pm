@@ -185,12 +185,12 @@ For more information about NizhnyNovgorod Map, click L<here|https://en.wikipedia
  system "ls -l NizhnyNovgorod.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 292500 Dec 21 17:25 NizhnyNovgorod.png
+ # -rw-r--r-- 1 skim skim 38058 22. led 11.37 NizhnyNovgorod.png
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-NizhnyNovgorod/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-NizhnyNovgorod/master/images/ex3.png" alt="Нижегородский метрополитен" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-NizhnyNovgorod/master/images/NizhnyNovgorod.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-NizhnyNovgorod/master/images/NizhnyNovgorod.png" alt="Нижегородский метрополитен" width="300px" height="300px" />
 </a>
 
 =end html
