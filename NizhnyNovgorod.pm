@@ -34,6 +34,7 @@ Map::Tube::NizhnyNovgorod - Interface to the NizhnyNovgorod Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::NizhnyNovgorod;
+
  my $obj = Map::Tube::NizhnyNovgorod->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
