@@ -7,6 +7,7 @@
  - Update Module::Install to 1.18 version.
  - Update author name.
  - Update copyright years to 2017.
+ - Update dependency of Map::Tube to 3.62.
 
 0.03 2015-10-16T11:37:49+02:00
  - Add lines to XML document.
