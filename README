@@ -67,11 +67,9 @@ METHODS
              Returns string with XML.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::NizhnyNovgorod;
 
@@ -88,11 +86,9 @@ EXAMPLE1
      # Route: Буревестник (Сормовская линия), Бурнаковская (Сормовская линия), Канавинская (Сормовская линия), Московская (Автозаводская линия,Сормовская линия), Чкаловская (Автозаводская линия), Ленинская (Автозаводская линия), Заречная (Автозаводская линия), Двигатель Революции (Автозаводская линия), Пролетарская (Автозаводская линия), Автозаводская (Автозаводская линия), Комсомольская (Автозаводская линия), Кировская (Автозаводская линия)
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::NizhnyNovgorod;
 
      # Object.
@@ -108,11 +104,9 @@ EXAMPLE2
      # XML file: .*/nizhny_novgorod-map.xml
 
 EXAMPLE3
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::GraphViz;
      use Map::Tube::GraphViz::Utils qw(node_color_without_label);
      use Map::Tube::NizhnyNovgorod;
@@ -137,11 +131,9 @@ EXAMPLE3
      # -rw-r--r-- 1 skim skim 292500 Dec 21 17:25 NizhnyNovgorod.png
 
 EXAMPLE4
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::NizhnyNovgorod;
 
@@ -159,11 +151,9 @@ EXAMPLE4
      # Сормовская линия
 
 EXAMPLE5
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::NizhnyNovgorod;
 
