@@ -6,7 +6,7 @@
  - Rewrite XML map to new version without junctions.
  - Update Module::Install to 1.21 version.
  - Update author name.
- - Update copyright years to 2017.
+ - Update copyright years.
  - Update dependency of Map::Tube to 3.62.
 
 0.03 2015-10-16T11:37:49+02:00
