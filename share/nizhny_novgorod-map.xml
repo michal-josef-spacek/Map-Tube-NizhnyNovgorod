@@ -6,10 +6,12 @@
     <line id="M2" name="Сормовская линия" color="blue"/>
   </lines>
   <stations>
+    <!-- Stations on multiple lines -->
+    <station id="1-02" name="Московская" line="M1:2,M2:1" link="1-01,1-03,2-02"/>
 
     <!-- https://ru.wikipedia.org/wiki/Автозаводская_линия_(Нижний_Новгород) -->
     <station id="1-01" name="Горьковская" line="M1:1" link="1-02"/>
-    <station id="1-02" name="Московская" line="M1:2" link="1-01,1-03" other_link="Tunnel:2-01"/>
+    <!-- Московская -->
     <station id="1-03" name="Чкаловская" line="M1:3" link="1-02,1-04"/>
     <station id="1-04" name="Ленинская" line="M1:4" link="1-03,1-05"/>
     <station id="1-05" name="Заречная" line="M1:5" link="1-04,1-06"/>
@@ -21,8 +23,8 @@
     <station id="1-11" name="Парк культуры" line="M1:11" link="1-10"/>
 
     <!-- https://ru.wikipedia.org/wiki/Сормовская_линия -->
-    <station id="2-01" name="Московская" line="M2:1" link="2-02" other_link="Tunnel:1-02"/>
-    <station id="2-02" name="Канавинская" line="M2:2" link="2-01,2-03"/>
+    <!-- Московская -->
+    <station id="2-02" name="Канавинская" line="M2:2" link="1-02,2-03"/>
     <station id="2-03" name="Бурнаковская" line="M2:3" link="2-02,2-04"/>
     <station id="2-04" name="Буревестник" line="M2:4" link="2-03"/>
   </stations>
