@@ -1,4 +1,4 @@
-0.04
+0.04 2025-01-22T11:39:06+01:00
  - Add EXAMPLE5 section to doc.
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Fix stations on multiple lines.
